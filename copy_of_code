@@ -1,0 +1,310 @@
+
+                                          <!-- <div class="item ">
+                                            <div class="porifolio-section overflow">
+                                              <div class="col-xs-10 col-xs-offset-1">
+                                                <div class="row">
+                                                  <div class="image text-center">
+                                                    <img src="images/plan-now.png" alt="Features Image">
+                                                  </div>
+                                                </div>
+                                              </div> -->
+                                                <!-- <div class="each-portfolio-heading">
+                                                  <div class="heading-text overflow wow">
+                                                    <div class="line"></div>
+                                                      <div class="overflow">
+                                                        <div class="sub-heading-outer">
+                                                          <p class="sub-heading">Project 3</p>
+                                                        </div>
+                                                      </div>
+                                                    <div class="text overflow">
+                                                    <p class="sub-heading">
+                                                          Plan-Now
+                                                      </p>
+                                                    </div>
+                                                  </div>
+                                                  <div class="link-list overflow wow">
+                                                      <div class="link one overflow">
+                                                          <div class="inner">
+                                                              <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
+                                                          </div>
+                                                      </div>
+                                                      <div class="line hidden-xs"></div>
+                                                  </div>
+                                                </div>
+                                                  <div class="col-xs-12 project-detail-outer">
+                                                    <div class="project-detail">
+                                                      <div class="project-detail-inner relative semi-dark-background overflow">
+                                                        <div class="col-md-6 col-sm-12 vertical-middle project-detail-content">
+                                                          <div class="overflow">
+                                                            <div class="heading-outer">
+                                                              <h2 class="heading">Plan-Now</h2>
+                                                            </div>
+                                                          </div>
+                                                        <div class="overflow">
+                                                          <ul class="nav list">
+                                                            <li><p class="sub-heading">Project 3</p></li>
+                                                            <li><p class="sub-heading">Dec 2016</p></li>
+                                                          </ul>
+                                                        </div>
+                                                      <div class="overflow">
+                                                        <div class="pera-outer m-t-30">
+                                                          <p>Create an event, invite your family and friends in a quicker way and intake less stress. A user can register/login and create a event where he can send invitations to other registered users. This website was built using Ruby on Rails for back end and CSS, Bootstrap, Javascript for front end. </p>
+                                                        </div>
+                                                      </div>
+                                                    <div class="overflow">
+                                                      <div class="full-view-outer">
+                                                        <a href="https://plan-now.herokuapp.com" class="btn right-icon btn-mask">Vist Website <i class="icon icon-arrow-right"></i></a>
+                                                      </div>
+                                                    </div>
+                                                  <div class="overflow">
+                                                    <div class="full-view-outer">
+                                                      <a href="https://github.com/arsy209/plan-now" class="btn right-icon btn-mask">See Github Code <i class="icon icon-arrow-right"></i></a>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
+                                                  <div class="row text-right display-full">
+                                                    <div class="project-detail-image-outer display-full">
+                                                      <img src="images/plan-now.png" alt="Portfolio Image">
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                              <div class="clearfix"></div>
+                                              <div class="overflow">
+                                                <div class="btn-outer text-center m-t-30">
+                                                  <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div> -->
+                                      <!-- <div class="item ">
+                                        <div class="porifolio-section overflow">
+                                          <div class="col-xs-10 col-xs-offset-1">
+                                            <div class="row">
+                                              <div class="image text-center">
+                                                <img src="images/stack_overflow.png" alt="Features Image">
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="each-portfolio-heading">
+                                            <div class="heading-text overflow wow">
+                                              <div class="line"></div>
+                                                <div class="overflow">
+                                                  <div class="sub-heading-outer">
+                                                    <p class="sub-heading">Project 4</p>
+                                                  </div>
+                                                </div>
+                                                <div class="overflow">
+                                                  <div class="sub-heading-outer">
+                                                    <h3>Stack Overflow</h3>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                              <div class="link-list overflow wow">
+                                                <div class="link one overflow">
+                                                  <div class="inner">
+                                                    <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
+                                                  </div>
+                                                </div>
+                                              <div class="line hidden-xs"></div>
+                                              </div>
+                                            </div>
+                                              <div class="col-xs-12 project-detail-outer">
+                                                <div class="project-detail">
+                                                  <div class="project-detail-inner relative semi-dark-background overflow">
+                                                    <div class="col-md-6 col-sm-12 vertical-middle project-detail-content">
+                                                      <div class="overflow">
+                                                        <div class="">
+                                                          <h2 class="heading">Stack-OverFlow</h2>
+                                                        </div>
+                                                      </div>
+                                                        <div class="overflow">
+                                                          <ul class="nav list">
+                                                            <li><p class="sub-heading">Project 4</p></li>
+                                                            <li><p class="sub-heading">Nov 2016</p></li>
+                                                          </ul>
+                                                        </div>
+                                                        <div class="overflow">
+                                                          <div class="pera-outer m-t-30">
+                                                            <p>A stack overflow clone where users can register/login and ask questions, leave comments. Registered users can also rate the answers posted by other users and the creator of the question can vote for the best answer. This website was built using CRUD methods. Javascript, Ajax, jQuery and CSS were used for front end. </p>
+                                                          </div>
+                                                        </div>
+                                                      <div class="overflow">
+                                                        <div class="full-view-outer">
+                                                          <a href="https://github.com/arsy209/stack_overflow" class="btn right-icon btn-mask">See Github Code <i class="icon icon-arrow-right"></i></a>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
+                                                    <div class="row text-right display-full">
+                                                      <div class="project-detail-image-outer display-full">
+                                                        <img src="images/stack_overflow.png" alt="Portfolio Image">
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              <div class="clearfix"></div>
+                                              <div class="overflow">
+                                                <div class="btn-outer text-center m-t-30">
+                                                  <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div> -->
+                                      <!-- <div class="item ">
+                                        <div class="porifolio-section overflow">
+                                          <div class="col-xs-10 col-xs-offset-1">
+                                            <div class="row">
+                                              <div class="image text-center">
+                                                <img src="images/getflick.jpg" alt="Features Image">
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="each-portfolio-heading">
+                                            <div class="heading-text overflow wow">
+                                              <div class="line"></div>
+                                                <div class="overflow">
+                                                  <div class="sub-heading-outer">
+                                                      <p class="sub-heading">Project 5</p>
+                                                  </div>
+                                                </div>
+                                                <div class="overflow">
+                                                  <div class="sub-heading-outer">
+                                                      <h3>Get-Flick</h3>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                              <div class="link-list overflow wow">
+                                                <div class="link one overflow">
+                                                  <div class="inner">
+                                                    <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
+                                                  </div>
+                                                </div>
+                                                <div class="line hidden-xs"></div>
+                                              </div>
+                                            </div>
+                                            <div class="col-xs-12 project-detail-outer">
+                                              <div class="project-detail">
+                                                <div class="project-detail-inner relative semi-dark-background overflow">
+                                                  <div class="col-md-6 col-sm-12 vertical-middle project-detail-content">
+                                                    <div class="overflow">
+                                                      <div class="heading-outer">
+                                                        <h2 class="heading">Get-Flick</h2>
+                                                      </div>
+                                                    </div>
+                                                  <div class="overflow">
+                                                    <ul class="nav list">
+                                                      <li><p class="sub-heading">Project 5</p></li>
+                                                      <li><p class="sub-heading">December 2016</p></li>
+                                                    </ul>
+                                                  </div>
+                                                <div class="overflow">
+                                                  <div class="pera-outer m-t-30">
+                                                      <p>This Website was built using Ruby on Rails as back end, and CSS for the front end along with OMDB API, Materialize. Get-flick is a rails application that allows users to see movie information. Movies can be listed by genre. Movie details can be viewed when a movie is selected. Users can create accounts and log in to store their favorites, rate, and review movies. Movies have an average rating.</p>
+                                                  </div>
+                                                </div>
+                                              <div class="overflow">
+                                                <div class="full-view-outer">
+                                                  <a href="https://github.com/arsy209/getflicks" class="btn right-icon btn-mask">See Github Code <i class="icon icon-arrow-right"></i></a>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
+                                              <div class="row text-right display-full">
+                                                <div class="project-detail-image-outer display-full">
+                                                  <img src="images/getflick.jpg" alt="Portfolio Image">
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="clearfix"></div>
+                                            <div class="overflow">
+                                              <div class="btn-outer text-center m-t-30">
+                                                <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div> -->
+                                      <!-- <div class="item ">
+                                        <div class="porifolio-section overflow">
+                                            <div class="col-xs-10 col-xs-offset-1">
+                                              <div class="row">
+                                                <div class="image text-center">
+                                                  <img src="images/make1too.jpg" alt="Features Image">
+                                                 </div>
+                                                </div>
+                                              </div>
+                                              <div class="each-portfolio-heading">
+                                                <div class="heading-text overflow wow">
+                                                  <div class="line"></div>
+                                                    <div class="overflow">
+                                                      <div class="sub-heading-outer">
+                                                        <p class="sub-heading">Project 6</p>
+                                                      </div>
+                                                    </div>
+                                                  <div class="text overflow">
+                                            <p class="sub-heading">
+                                                      Make1Too
+                                                    </p>
+                                                  </div>
+                                                </div>
+                                                <div class="link-list overflow wow">
+                                                  <div class="link one overflow">
+                                                      <div class="inner">
+                                                        <a class="btn btn-project-detail right-icon btn-mask" href="#" data-element="project-detail">PROJECT DETAILS <i class="icon icon-arrow-right"></i></a>
+                                                      </div>
+                                                    </div>
+                                                  <div class="line hidden-xs"></div>
+                                                </div>
+                                              </div>
+                                              <div class="col-xs-12 project-detail-outer">
+                                                <div class="project-detail">
+                                                  <div class="project-detail-inner relative semi-dark-background overflow">
+                                                    <div class="col-md-6 col-sm-12 vertical-middle project-detail-content">
+                                                      <div class="overflow">
+                                                        <div class="heading-outer">
+                                                          <h2 class="heading">Make1Too</h2>
+                                                        </div>
+                                                      </div>
+                                                    <div class="overflow">
+                                                      <ul class="nav list">
+                                                        <li><p class="sub-heading">Project 6</p></li>
+                                                        <li><p class="sub-heading">November 2016</p></li>
+                                                      </ul>
+                                                    </div>
+                                                  <div class="overflow">
+                                                    <div class="pera-outer m-t-30">
+                                                        <p>A music playlist website where users can register, create their multiple playlists with their favorite song links or video links and also can be displayed for other users to see. A sound cloud api was used to take data from sound cloud and be able to search songs on Make1too and by clicking on the song name, it would redirect it to the soundcloud website where the song came from. This webiste was built using CRUD methods and Javascript, Ajax , CSS, and Bootstrap for the front end. </p>
+                                                    </div>
+                                                  </div>
+                                                <div class="overflow">
+                                                  <div class="full-view-outer">
+                                                    <a href="https://github.com/arsy209/passion_project" class="btn right-icon btn-mask">See Github Code <i class="icon icon-arrow-right"></i></a>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            <div class="col-md-6 col-sm-12 vertical-middle overflow project-detail-image">
+                                              <div class="row text-right display-full">
+                                                <div class="project-detail-image-outer display-full">
+                                                  <img src="images/make1too.jpg" alt="Portfolio Image">
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                          <div class="clearfix"></div>
+                                            <div class="overflow">
+                                              <div class="btn-outer text-center m-t-30">
+                                                <a href="#" class="btn left-icon btn-slider-back btn-mask"><i class="icon icon-arrow-left"></i> BACK TO PORTFOLIO</a>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div> -->
